@@ -5,5 +5,5 @@
 네이버 기사의 제목 텍스트와 BERT모델을 통해 섹션을 분류함
    
    
-<   
+<hr/>
 #### 참고한 사이트: https://medium.com/@eyfydsyd97/bert%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-classification-by-pytorch-2a6d4adaf162
