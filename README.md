@@ -1,4 +1,7 @@
-# article_section_classifier-BERT-
+# article_section_classifier-BERT-   
+   
+   
+   
 <hr/>   
 
 >크롤러를 통해 네이버 기사 제목 데이터를 수집   
@@ -10,5 +13,6 @@
    
    
 <hr/>   
-
+   
+   
 #### 참고한 사이트: https://medium.com/@eyfydsyd97/bert%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-classification-by-pytorch-2a6d4adaf162
