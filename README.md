@@ -12,9 +12,12 @@
 > 형성된 데이터를 BERT_article_classification에서 읽을 수 있도록 처리한 후 코드를 실행하면 됨
 >
 > test : valid : test = 6 : 2 : 2의 비율을 형성함 
-   
+
    
 <hr/>   
+
+
+![데이터 3만개 2e 에퐄3 테스트 추가](https://user-images.githubusercontent.com/62196278/125653735-5d229cbd-8d65-4a77-93f3-20dfcccf512c.jpg)
    
    
 #### 참고한 사이트: https://medium.com/@eyfydsyd97/bert%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-classification-by-pytorch-2a6d4adaf162
