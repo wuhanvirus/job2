@@ -11,7 +11,7 @@
 > (당일 돌리면 약 1주전까지 기사가 크롤링 되며 2만5천건 정도 형성)
 >
 >
-> 형성된 데이터를 BERT_article_classification에서 읽을 수 있도록 처리한 후 코드를 실행하면 됨
+> 형성된 데이터를 BERT_article_classification에서 읽을 수 있도록 BERT_article_classification의 첫째줄을 파일명으로 바꾸고 그 코드를 실행
 >
 >
 > test : valid : test = 6 : 2 : 2의 비율을 형성함 
