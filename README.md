@@ -1,9 +1,7 @@
 # article_section_classifier-BERT-   
    
    
-   
-<hr/>   
-   
+
 ### 작동 방식
 
 >   
