@@ -12,7 +12,8 @@
 형성된 데이터를 BERT_article_classification에서 읽을 수 있도록 BERT_article_classification의 첫째줄을 형성시킨 데이터가 있는 파일명으로 바꾸고 코드를 실행합니다
 
 test : valid : test = 6 : 2 : 2의 비율을 형성함 
-
+<br>
+<br>
 
 ## 실행 결과
 
