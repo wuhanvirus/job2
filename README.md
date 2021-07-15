@@ -1,6 +1,4 @@
 # article_section_classifier-BERT-   
-   
-<br>
 <br>
 
 ## 작동 방식
